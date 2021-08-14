@@ -55,7 +55,7 @@ export default function Home() {
 				<div className='container'>
 					<p>
 						The dog derived from an ancient, extinct wolf, and the modern grey
-						wolf is the dog\'s nearest living relative. The dog was the first
+						wolf is the dog&aposs nearest living relative. The dog was the first
 						species to be domesticated, by hunter–gatherers over 15,000 years
 						ago, before the development of agriculture. Their long association
 						with humans has led dogs to be uniquely adapted to human behavior,
@@ -67,7 +67,7 @@ export default function Home() {
 						humans, such as hunting, herding, pulling loads, protection,
 						assisting police and the military, companionship, therapy, and
 						aiding disabled people. This influence on human society has given
-						them the sobriquet of \"man\'s best friend.\"
+						them the sobriquet of &quotman&aposs best friend.&quot
 					</p>
 					<p>
 						The Cretaceous–Paleogene extinction event occurred 65 million years
@@ -113,8 +113,8 @@ export default function Home() {
 						Schaffhausen, Switzerland, which dates to 14,500 years ago. The most
 						recent common ancestor of both is estimated to be from 32,100 years
 						ago. This indicates that an extinct Late Pleistocene wolf may have
-						been the ancestor of the dog, with the modern wolf being the dog\'s
-						nearest living relative.
+						been the ancestor of the dog, with the modern wolf being the
+						dog&aposs nearest living relative.
 					</p>
 					<p className='anim'>
 						The dog is a classic example of a domestic animal that likely
