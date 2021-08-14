@@ -55,7 +55,7 @@ export default function Home() {
 				<div className='container'>
 					<p>
 						The dog derived from an ancient, extinct wolf, and the modern grey
-						wolf is the dog&aposs; nearest living relative. The dog was the
+						wolf is the dog&apos;s nearest living relative. The dog was the
 						first species to be domesticated, by hunter–gatherers over 15,000
 						years ago, before the development of agriculture. Their long
 						association with humans has led dogs to be uniquely adapted to human
