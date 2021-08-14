@@ -55,7 +55,7 @@ export default function Home() {
 				<div className='container'>
 					<p>
 						The dog derived from an ancient, extinct wolf, and the modern grey
-						wolf is the dog's nearest living relative. The dog was the first
+						wolf is the dog\'s nearest living relative. The dog was the first
 						species to be domesticated, by hunter–gatherers over 15,000 years
 						ago, before the development of agriculture. Their long association
 						with humans has led dogs to be uniquely adapted to human behavior,
@@ -67,7 +67,7 @@ export default function Home() {
 						humans, such as hunting, herding, pulling loads, protection,
 						assisting police and the military, companionship, therapy, and
 						aiding disabled people. This influence on human society has given
-						them the sobriquet of "man's best friend."
+						them the sobriquet of \"man\'s best friend.\"
 					</p>
 					<p>
 						The Cretaceous–Paleogene extinction event occurred 65 million years
@@ -113,7 +113,7 @@ export default function Home() {
 						Schaffhausen, Switzerland, which dates to 14,500 years ago. The most
 						recent common ancestor of both is estimated to be from 32,100 years
 						ago. This indicates that an extinct Late Pleistocene wolf may have
-						been the ancestor of the dog, with the modern wolf being the dog's
+						been the ancestor of the dog, with the modern wolf being the dog\'s
 						nearest living relative.
 					</p>
 					<p className='anim'>
@@ -148,37 +148,37 @@ export default function Home() {
 						<li className='anim'>English Mastiff</li>
 					</ul>
 				</div>
-				<div class='third'>
-					<div class='items'>
-						<div class='item anim'>
-							<div class='image'>
+				<div className='third'>
+					<div className='items'>
+						<div className='item anim'>
+							<div className='image'>
 								<img src='https://highlandcanine.com/wp-content/uploads/2019/08/siberian-husky.jpg'></img>
 							</div>
-							<div class='text'>Siberian Husky</div>
+							<div className='text'>Siberian Husky</div>
 						</div>
-						<div class='item anim'>
-							<div class='image'>
+						<div className='item anim'>
+							<div className='image'>
 								<img src='https://highlandcanine.com/wp-content/uploads/2019/08/golden-retriever.jpg'></img>
 							</div>
-							<div class='text'>Golden Retriever</div>
+							<div className='text'>Golden Retriever</div>
 						</div>
-						<div class='item anim'>
-							<div class='image'>
+						<div className='item anim'>
+							<div className='image'>
 								<img src='https://highlandcanine.com/wp-content/uploads/2019/08/pomeranian.jpg'></img>
 							</div>
-							<div class='text'>Pomeranian</div>
+							<div className='text'>Pomeranian</div>
 						</div>
-						<div class='item anim'>
-							<div class='image'>
+						<div className='item anim'>
+							<div className='image'>
 								<img src='https://highlandcanine.com/wp-content/uploads/2019/08/chowchow.jpg'></img>
 							</div>
-							<div class='text'>Chow-Chow</div>
+							<div className='text'>Chow-Chow</div>
 						</div>
-						<div class='item anim'>
-							<div class='image'>
+						<div className='item anim'>
+							<div className='image'>
 								<img src='https://highlandcanine.com/wp-content/uploads/2019/08/cane-corso.jpg'></img>
 							</div>
-							<div class='text'>Cane Corso</div>
+							<div className='text'>Cane Corso</div>
 						</div>
 					</div>
 				</div>
