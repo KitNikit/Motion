@@ -55,19 +55,19 @@ export default function Home() {
 				<div className='container'>
 					<p>
 						The dog derived from an ancient, extinct wolf, and the modern grey
-						wolf is the dog&aposs nearest living relative. The dog was the first
-						species to be domesticated, by hunter–gatherers over 15,000 years
-						ago, before the development of agriculture. Their long association
-						with humans has led dogs to be uniquely adapted to human behavior,
-						leading to a large number of domestic individuals and the ability to
-						thrive on a starch-rich diet that would be inadequate for other
-						canids. The dog has been selectively bred over millennia for various
-						behaviors, sensory capabilities, and physical attributes. Dog breeds
-						vary widely in shape, size, and color. They perform many roles for
-						humans, such as hunting, herding, pulling loads, protection,
-						assisting police and the military, companionship, therapy, and
-						aiding disabled people. This influence on human society has given
-						them the sobriquet of &quotman&aposs best friend.&quot
+						wolf is the dog&aposs; nearest living relative. The dog was the
+						first species to be domesticated, by hunter–gatherers over 15,000
+						years ago, before the development of agriculture. Their long
+						association with humans has led dogs to be uniquely adapted to human
+						behavior, leading to a large number of domestic individuals and the
+						ability to thrive on a starch-rich diet that would be inadequate for
+						other canids. The dog has been selectively bred over millennia for
+						various behaviors, sensory capabilities, and physical attributes.
+						Dog breeds vary widely in shape, size, and color. They perform many
+						roles for humans, such as hunting, herding, pulling loads,
+						protection, assisting police and the military, companionship,
+						therapy, and aiding disabled people. This influence on human society
+						has given them the sobriquet of &quot;man&apos;s best friend.&quot;
 					</p>
 					<p>
 						The Cretaceous–Paleogene extinction event occurred 65 million years
@@ -114,7 +114,7 @@ export default function Home() {
 						recent common ancestor of both is estimated to be from 32,100 years
 						ago. This indicates that an extinct Late Pleistocene wolf may have
 						been the ancestor of the dog, with the modern wolf being the
-						dog&aposs nearest living relative.
+						dog&apos;s nearest living relative.
 					</p>
 					<p className='anim'>
 						The dog is a classic example of a domestic animal that likely
